@@ -55,7 +55,7 @@ The gem is available as open source under the terms of the [MIT License](https:/
 <!--Add this line to your application's Gemfile:-->
 
 <!--```ruby-->
-<!--gem 'olive-palindrome'-->
+<!--gem 'olive_palindrome'-->
 <!--```-->
 
 <!--And then execute:-->
@@ -64,7 +64,7 @@ The gem is available as open source under the terms of the [MIT License](https:/
 
 <!--Or install it yourself as:-->
 
-<!--    $ gem install olive-palindrome-->
+<!--    $ gem install olive_palindrome-->
 
 <!--## Usage-->
 
@@ -78,4 +78,4 @@ The gem is available as open source under the terms of the [MIT License](https:/
 
 <!--## Contributing-->
 
-<!--Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/olive-palindrome.-->
+<!--Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/olive_palindrome.-->
