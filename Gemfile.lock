@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    olive_palindrome (0.1.01)
+    olive_palindrome (0.1.1)
 
 GEM
   remote: https://rubygems.org/
