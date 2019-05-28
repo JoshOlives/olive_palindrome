@@ -27,6 +27,12 @@ class OlivePalindromeTest < Minitest::Test
   def test_palindrome_with_punctuation
     assert "Madam, I'm Adam.".palindrome?
   end
+  def test_int_non
+    refute 2131212358.palindrome?
+  end
+  def test_pal_int
+    assert 212.palindrome?
+  end
 end
 
 #for pending tests right skip in body

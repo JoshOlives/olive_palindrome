@@ -1,7 +1,7 @@
 require "olive_palindrome/version"
 
 
-class String
+module OlivePalindrome
   
   def palindrome?
     process_cont == process_cont.reverse
@@ -18,6 +18,10 @@ class String
       processor(self)
     end
 end
+
+require "string_palindrome"
+
+require "integer_palindrome"
 
 # module OlivePalindrome
 #   class Error < StandardError; end
