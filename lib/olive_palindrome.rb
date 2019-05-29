@@ -4,6 +4,7 @@ require "olive_palindrome/version"
 module OlivePalindrome
   
   def palindrome?
+    return false if process_cont.empty?
     process_cont == process_cont.reverse
   end
   

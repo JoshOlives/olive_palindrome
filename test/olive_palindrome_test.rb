@@ -33,6 +33,10 @@ class OlivePalindromeTest < Minitest::Test
   def test_pal_int
     assert 212.palindrome?
   end
+  
+  def test_blank
+    refute "".palindrome?
+  end
 end
 
 #for pending tests right skip in body
